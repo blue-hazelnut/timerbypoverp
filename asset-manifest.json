@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timerbypoverp/static/css/main.8ebde00a.css",
+    "main.js": "/timerbypoverp/static/js/main.d3fffbe6.js",
+    "index.html": "/timerbypoverp/index.html",
+    "main.8ebde00a.css.map": "/timerbypoverp/static/css/main.8ebde00a.css.map",
+    "main.d3fffbe6.js.map": "/timerbypoverp/static/js/main.d3fffbe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ebde00a.css",
+    "static/js/main.d3fffbe6.js"
+  ]
+}
