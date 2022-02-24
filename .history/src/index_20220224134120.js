@@ -3,9 +3,6 @@ import ReactDOM from 'react-dom';
 
 import App from './App';
 
-import * as serviceWorkerRegistration from './serviceWorkerRegistration';
-serviceWorkerRegistration.register();
-
 const rootElement = document.getElementById('root');
 ReactDOM.render(
   <StrictMode>
@@ -13,3 +10,7 @@ ReactDOM.render(
   </StrictMode>,
   rootElement
 );
+
+import * as serviceWorkerRegistration from './serviceWorkerRegistration'; serviceWorkerRegistration.register();
+
+출처: https://kwanghyuk.tistory.com/200 [KHAN]
